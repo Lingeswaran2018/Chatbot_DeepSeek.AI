@@ -22,7 +22,6 @@ To run the chatbot locally, clone this repository and install the required depen
 
 ```bash
 https://github.com/Lingeswaran2018/Chatbot_DeepSeek.AI.git
-cd your-repository
 pip install -r requirements.txt
 streamlit run app.py
 ```
