@@ -3,6 +3,9 @@
 
 Welcome to **Linga AI Solutions Pvt. Ltd.** Chatbot powered by **DeepSeek**! This chatbot is designed to provide interactive communication and solve various tasks for users.
 
+
+![image](https://github.com/user-attachments/assets/c0716441-d093-4d14-a720-d5844ac00df9)
+
 ## Features
 - **Conversational AI**: Offers intelligent, interactive conversations based on deep learning models.
 - **Multiple Robotic Systems**: Integrated with various robots to assist in different tasks and provide solutions.
@@ -26,6 +29,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-![image](https://github.com/user-attachments/assets/2630345d-75b9-42f9-9aa1-bff8df58000d)
+
 
 
