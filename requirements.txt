@@ -1,0 +1,5 @@
+streamlit
+langchain_community
+langchain_core
+langchain_ollama
+# httpx>=0.24.1,<0.29
