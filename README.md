@@ -21,7 +21,7 @@ Check out the chatbot in action on the following [link](https://linga-chatbot-de
 To run the chatbot locally, clone this repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-repository
+https://github.com/Lingeswaran2018/Chatbot_DeepSeek.AI.git
 cd your-repository
 pip install -r requirements.txt
 streamlit run app.py
